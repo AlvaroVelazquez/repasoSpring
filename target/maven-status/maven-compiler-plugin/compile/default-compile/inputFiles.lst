@@ -1,0 +1,11 @@
+/home/alvaro/springMascotas-master/src/main/java/es/salesianos/service/OwnerService.java
+/home/alvaro/springMascotas-master/src/main/java/es/salesianos/repository/Repository.java
+/home/alvaro/springMascotas-master/src/main/java/es/salesianos/model/Owner.java
+/home/alvaro/springMascotas-master/src/main/java/es/salesianos/connection/ConnectionH2.java
+/home/alvaro/springMascotas-master/src/main/java/es/salesianos/controller/PetController.java
+/home/alvaro/springMascotas-master/src/main/java/es/salesianos/springMascotas/SpringMascotasApplication.java
+/home/alvaro/springMascotas-master/src/main/java/es/salesianos/connection/ConnectionManager.java
+/home/alvaro/springMascotas-master/src/main/java/es/salesianos/service/PetService.java
+/home/alvaro/springMascotas-master/src/main/java/es/salesianos/service/ListService.java
+/home/alvaro/springMascotas-master/src/main/java/es/salesianos/model/Pet.java
+/home/alvaro/springMascotas-master/src/main/java/es/salesianos/controller/OwnerController.java
